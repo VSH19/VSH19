@@ -12,22 +12,6 @@ Hello
    
 
 
-<main role="main" class="container">
-
-  <div class="starter-template">
-    <h1>Main</h1>
-
-    <table id="example" class="table table-striped table-bordered" style="width:100%">
-        <thead>
-            <tr>
-                <th>#</th>
-                <th>Name</th>
-            </tr>
-        </thead>
-        <tbody>
-
-
-        </tbody>
   
 
 
